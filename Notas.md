@@ -135,8 +135,9 @@ if for def else
 		'''
 
 	>Objetos
+		- Tiene atributos/propiedades (características) y métodos (funciones)
 		- etiqueta (nombre que se le asigna)
-		-
+		- 
 
 		##En el Script NO escribir más de 79 caracteres
 
@@ -167,3 +168,62 @@ if for def else
 		if variable is None
 
 		true == 1 -> true
+
+## Clase 3
+
+
+	print('''    | Cuando esta notación 
+	This		 | se encuentra dentro de una 
+	is 			 | función se interpreta como
+	multiline	 | un string.
+	''') 		 |
+
+	Comandos:
+		dir() -> genera una lista de métodos del tipo de dato introducido entre los parentesis
+			dir('string')
+			dir(123)
+
+	Palabras reservadas:
+		- return
+		- or
+		- None
+		- and
+		- not
+		- asset
+		- def
+		- class
+		- continue
+		- break
+		- from
+		- finally
+		- elif
+		- del
+		- except
+		- global
+		- for
+		- if
+		- else
+		- import
+		- raise
+		- try
+		- True
+		- False
+		- pass
+		- nonlocal
+		- in 
+		- as 
+		- is -> compara tanto valor y ESPACIO en memoria
+		- lambda
+
+	Asignación múltiple a uno:
+		var1 = var2 = var3 = valor; -> múltiples variables apuntan a un mismo valor
+
+	Asignación múltiple a múltiple
+		A, B, C = 1,2,3
+			//A = 1 , B = 2, C = 3
+
+	CONSTANTES (variables, INMUTABLES_POR_CONVENCION)
+		Cuando se encuentra una variable declara en MAYUSCULAS_Y_GUIONES_BAJOS *No modificar su valor
+
+		 
+		 
